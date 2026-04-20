@@ -1,0 +1,10 @@
+@import "tailwindcss";
+body
+{
+  background-image: url('https://i.pinimg.com/1200x/67/8b/6b/678b6b1cf43ba252844cfe707c591b6b.jpg');
+  background-repeat: no-repeat;
+  background-size:cover;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
